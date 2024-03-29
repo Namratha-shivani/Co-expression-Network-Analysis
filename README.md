@@ -11,11 +11,11 @@ Co-expression network analysis is a computational approach used in bioinformatic
 
 Exploration of Common and Differentially Expressed Genes in Psoriasis, and Dermatomyositis
 
-## Introduction 
+### Introduction 
 
 Psoriasis, and dermatomyositis (DM) are autoimmune inflammatory diseases that affect millions of people worldwide. Psoriasis is characterized by skin manifestations, whereas DM affects skeletal muscles and skin. Despite their differences, these diseases share common immune dysregulation pathways and treatment modalities.
 
-## Objective 
+### Objective 
 
 This project aims to identify common and differentially expressed genes (DEGs) among psoriasis, and DM using weighted gene coexpression network analysis (WGCNA). By exploring gene expression patterns, we seek to uncover potential treatment targets and biomarkers shared among these diseases.
 
@@ -30,4 +30,5 @@ if (!require("BiocManager", quietly = TRUE))
 BiocManager::install('WGCNA')
 
 library(WGCNA)
+
 ```
