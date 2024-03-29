@@ -9,7 +9,7 @@ Co-expression network analysis is a computational approach used in bioinformatic
 
 # Project 
 
-<h1>_Exploration of Common and Differentially Expressed Genes in Psoriasis, and Dermatomyositis_</h1>
+_<h4>Exploration of Common and Differentially Expressed Genes in Psoriasis, and Dermatomyositis</h4>_
 
 ### Introduction 
 
