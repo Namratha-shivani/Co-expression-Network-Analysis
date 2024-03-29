@@ -28,7 +28,9 @@ The WGCNA R software package is a toolbox of tools for analyzing gene expression
 if (!require("BiocManager", quietly = TRUE))
     install.packages("BiocManager")
 BiocManager::install('WGCNA')
+BiocManager::install('GEOquery')
 
 library(WGCNA)
+library(GEOquery)
 
 ```
